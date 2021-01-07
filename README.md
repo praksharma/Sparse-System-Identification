@@ -1,5 +1,5 @@
 # System-Identification
-1. The "Original code" directory is also available at https://www.pnas.org/content/113/15/3932
+1. The "sparse dynamics" directory is the original code, also available at https://www.pnas.org/content/113/15/3932
 Sparse Identification of Nonlinear Dynamics (SINDY)
 Copyright 2015, All Rights Reserved
 Code by Steven L. Brunton (sbrunton@uw.edu)
